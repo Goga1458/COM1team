@@ -3,5 +3,8 @@ Repository-ul a fost creată în cadrul Bootcampului IoT, organizat de Clubul In
 Membrii echipei:
 - Mocanu Gheorghe
 - Brînzila Irina
+Mentored by:
+- Izbaș Olga
+- Pocropivnîi Anatol
 
 Contactează-ne: gheorghemocanu@icloud.com
